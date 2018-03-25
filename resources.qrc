@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>buttons/aimp.png</file>
+        <file>buttons/AudioPlayer.png</file>
+        <file>buttons/HighVolume.png</file>
+        <file>buttons/LowVolume.png</file>
+        <file>buttons/MediumVolume.png</file>
+        <file>buttons/Mute.png</file>
+        <file>buttons/pause.png</file>
+        <file>buttons/play.png</file>
+        <file>buttons/plus.png</file>
+        <file>buttons/skip-next.png</file>
+        <file>buttons/skip-previous.png</file>
+        <file>buttons/stop.png</file>
+    </qresource>
+</RCC>
